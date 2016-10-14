@@ -1,0 +1,22 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "let's chat",
+  "main": "chat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xchl/chat.git"
+  },
+  "author": "xcl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xchl/chat/issues"
+  },
+  "homepage": "https://github.com/xchl/chat#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
